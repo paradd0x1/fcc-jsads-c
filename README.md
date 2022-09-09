@@ -1,4 +1,4 @@
-# Projects
+## Projects
 These are my projects for freeCodeCamp JavaScript Algorithms and Data Structures Certification:
 
 1. Palindrome Checker
